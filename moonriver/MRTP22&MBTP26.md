@@ -14,7 +14,7 @@ Security: Bare metal servers provide enhanced security and isolation, safeguardi
 
 Control: With bare metal servers, node operators have full control over hardware and software configurations, ensuring adherence to network rules and consensus mechanisms.
 
-Reliability: Bare metal servers offer robustness and stability, making them reliable choices for continuous operation in decentralized networks.
+Reliability: Bare metal servers offer robustness and stability, making them reliable choices for continuous operation in decentralized network.
 
 Expertise: Our team has a proven track record of creating tailor-made blockchain infrastructure that align with the Moonbeam community’s specific needs.
 
